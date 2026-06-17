@@ -19,6 +19,8 @@ Data
  * product_category – product category
  * product_type – product type
 
+ <img width="1248" height="133" alt="first" src="https://github.com/user-attachments/assets/ae6b73b0-3445-4d28-a459-fda5481f0cb0" />
+
 Product Description
 
  * product_id – unique product identifier
